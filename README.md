@@ -1,2 +1,0 @@
-# Mandla
-Aws Devops
